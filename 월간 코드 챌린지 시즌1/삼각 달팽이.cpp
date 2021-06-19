@@ -79,9 +79,9 @@ vector<int> solution(int n)
 
 int main()
 {
-	//vector<int> vecAnswer = solution(4); // [1,2,9,3,10,8,4,5,6,7]
+	vector<int> vecAnswer = solution(4); // [1,2,9,3,10,8,4,5,6,7]
 	//vector<int> vecAnswer = solution(5); // [1,2,12,3,13,11,4,14,15,10,5,6,7,8,9]
-	vector<int> vecAnswer = solution(6); // [1,2,15,3,16,14,4,17,21,13,5,18,19,20,12,6,7,8,9,10,11]
+	//vector<int> vecAnswer = solution(6); // [1,2,15,3,16,14,4,17,21,13,5,18,19,20,12,6,7,8,9,10,11]
 
 	for (int i = 0; i < vecAnswer.size(); i++)
 	{
