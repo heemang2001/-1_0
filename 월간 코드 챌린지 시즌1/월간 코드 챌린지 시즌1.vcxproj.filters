@@ -30,5 +30,8 @@
     <ClCompile Include="풍선 터트리기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="쿼드압축 후 개수 세기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
